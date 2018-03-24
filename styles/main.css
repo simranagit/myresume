@@ -1,5 +1,5 @@
 body {
-  background-color:#ff0000;
+  background-color:#00D3F6;
 }
 .flex-main{
   display: flex;
@@ -7,17 +7,17 @@ body {
 }
 .profile-card{
   width:30%;
-  background-color:#0000FF;
+  background-color:#FF7CFF;
   padding:2%;
   margin:2%;
-  border:3px solid yellow;
+  border:3px double yellow;
 }
 .content-card{
   width:60%;
-  background-color:#0000FF;
+  background-color:#FF7CFF;
   padding:2%;
   margin:2%;
-  border:3px solid yellow;
+  box-shadow: 3px 3px 3px 3px orange;
 }
 .profile-image{
   display: block;
@@ -25,6 +25,7 @@ body {
   border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
+  border:2px dashed black;
 }
 h2,h3,h4{
   text-align: center;

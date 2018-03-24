@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"DR. KV.SUBBAREDDYCOLLEGE OF ENGINEERING FOR WOMEN",
+    "data":["2015-19","70%"]
+},
+  {
+    "degree":"BOARD OF INTERMEDIATE EDUCATION",
+    "college":"SRI CHAITANYA JUNIOR COLLEGE",
+    "data":["2013-15","83%"]
+  },
+  {
+    "degree":"SECONDARY SCHOOL OF EDUCATION",
+    "college":"SISTER STANISLAS MEMORIAL ENGLISH SCHOOL",
+    "data":["2012-13","88%"]
+  }
+]
+}
